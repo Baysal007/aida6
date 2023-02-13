@@ -1,0 +1,14 @@
+.box1 {
+    background: linear-gradient(170deg,pink,red 25%,blue 50%,green 75%,yellow);
+    width: 80%;
+    height: 400px;
+    box-shadow: 30px 20px 10px rgb(130,35,46);
+}
+ .box3 {
+    background: rgba(60, 247, 22, 0.7);
+    border-radius: 100%;
+    border: 20px solid blueviolet;
+    width: 30%;
+    height: 400px;
+    transition: 2s;
+ }
